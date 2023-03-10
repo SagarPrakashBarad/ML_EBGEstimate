@@ -19,6 +19,17 @@ We built several types of algorithms to achieve our goal:
 -   Clustering (DBSCAN)
 -   Ensemble methods (Stacked Generalization)
 
+<center>
+
+![regression model 1](images/reg_1.jpg)
+
+</center>
+
+<center>
+
+![regression model 2](images/reg_2.jpg)
+
+</center>
 ## Results so far...
 
 Our algorithms achieved the following results:
