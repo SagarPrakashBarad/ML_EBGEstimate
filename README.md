@@ -33,10 +33,8 @@ We built several types of algorithms to achieve our goal:
 
 ## Results so far...
 
-Our algorithms achieved the following results:
+We achieved the following results:
 
--   Classification algorithms have >70% accuracy
--   Regression algorithms have an R2 > 0.72
--   Clustering algorithm gave a reasonable number of clusters for future applications
--   Gradient boosted decision trees (GBDTs) and random forests (RFs) are more effective in learning material properties, with GBDTs and RFs having an R2 value of 0.92 and 0.90 respectively.
-
+-   All classification algorithms have > 70% accuracy.
+-   All regression algorithms have an R2 > 0.72. Gradient boosted decision trees (GBDTs) and random forests (RFs) are more effective in learning material properties, with GBDTs and RFs having an R2 value of 0.92 and 0.90 respectively.
+-   Clustering algorithm gave a reasonable number of clusters for future applications.
