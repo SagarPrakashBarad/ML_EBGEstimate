@@ -21,13 +21,13 @@ We built several types of algorithms to achieve our goal:
 
 <center>
 
-<img src="images/reg_1.jpeg" alt="regression model" width="500 px" />
+<img src="images/reg_1.jpeg" alt="regression model 2" width="500 px" />
 
 </center>
 
 <center>
 
-![regression model 2](images/reg_2.jpeg)
+<img src="images/reg_2.jpeg" alt="regression model 2" width="500 px" />
 
 </center>
 
