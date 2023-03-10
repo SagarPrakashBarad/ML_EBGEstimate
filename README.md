@@ -21,7 +21,7 @@ We built several types of algorithms to achieve our goal:
 
 <center>
 
-![regression model 1](images/reg_1.jpeg)
+<img src="images/reg_1.jpeg" alt="regression model" width="500 px" />
 
 </center>
 
