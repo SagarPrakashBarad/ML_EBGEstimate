@@ -21,15 +21,16 @@ We built several types of algorithms to achieve our goal:
 
 <center>
 
-![regression model 1](images/reg_1.jepg)
+![regression model 1](images/reg_1.jpeg)
 
 </center>
 
 <center>
 
-![regression model 2](images/reg_2.jepg)
+![regression model 2](images/reg_2.jpeg)
 
 </center>
+
 ## Results so far...
 
 Our algorithms achieved the following results:
